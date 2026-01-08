@@ -6,7 +6,7 @@
     "link": "https://example.com/test-product-215",
     "description": "Prodotto fittizio creato per testare il catalog lookup di Klaviyo. Può essere rimosso dopo i test.",
     "price": 1,
-    "image_link": "https://via.placeholder.com/600x600.png?text=TEST+215",
+    "image_link": "https://raw.githubusercontent.com/DoGo101089/klaviyo-test-feed/main/test-215.jpg",
     "categories": ["TEST"],
     "inventory_quantity": 1,
     "inventory_policy": 1,
