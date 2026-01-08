@@ -1,0 +1,15 @@
+[
+  {
+    "id": "215",
+    "custom_id": 215,
+    "title": "TEST PRODUCT 215 (Klaviyo)",
+    "link": "https://example.com/test-product-215",
+    "description": "Prodotto fittizio creato per testare il catalog lookup di Klaviyo. Può essere rimosso dopo i test.",
+    "price": 1,
+    "image_link": "https://via.placeholder.com/600x600.png?text=TEST+215",
+    "categories": ["TEST"],
+    "inventory_quantity": 1,
+    "inventory_policy": 1,
+    "creation_date": "2026-01-08 00:00:00"
+  }
+]
