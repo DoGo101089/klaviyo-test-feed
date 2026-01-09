@@ -12,4 +12,17 @@
     "inventory_policy": 1,
     "creation_date": "2026-01-08 00:00:00"
   }
+  {
+    "id": "4176",
+    "custom_id": 4176,
+    "title": "TEST PRODUCT 4176 (Klaviyo)",
+    "link": "https://example.com/test-product-4176",
+    "description": "Prodotto fittizio creato per testare il catalog lookup di Klaviyo. Può essere rimosso dopo i test.",
+    "price": 1,
+    "image_link": "https://raw.githubusercontent.com/DoGo101089/klaviyo-test-feed/main/test-215.jpg",
+    "categories": ["TEST"],
+    "inventory_quantity": 1,
+    "inventory_policy": 1,
+    "creation_date": "2026-01-08 00:00:00"
+  }
 ]
